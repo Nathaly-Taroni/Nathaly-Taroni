@@ -1,14 +1,13 @@
 ## Oii! Eu sou a Nathaly Torres
 
-- 🔭 Hoje trabalho como curadora de Chatbot
-- 🌱  Faço faculdade de Análise e Desenvolvimento de Sistemas e cursos com foco em Front-End pela Alura
-- 👯 Estou em busca de migrar para a área de Front-end
-- 😊 Pronouns: Ela/Dela
+-📕 Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Impacta
+
+-❤️ Curiosa e apaixonada pela teconologia, iniciando no Front-End.
 
 <div>
   <a href="https://github.com/Nathaly-Taroni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathaly-Taroni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaly-Taroni&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nathaly-Taroni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathaly-Taroni&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <Div style = "display: inline_block" > <br>
