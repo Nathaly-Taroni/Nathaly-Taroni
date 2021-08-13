@@ -2,7 +2,7 @@
 
 -📕 Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Impacta
 
--❤️ Curiosa e apaixonada pela teconologia, iniciando no Front-End
+-❤️ Curiosa e apaixonada pela tecnologia, iniciando no Front-End
 
 <div>
   <a href="https://github.com/Nathaly-Taroni">
